@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-07-11 11:34:20
-categories: jekyll
+categories: jekyll,gdg
 author: Google Developers Group Managua
 image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
 ---
